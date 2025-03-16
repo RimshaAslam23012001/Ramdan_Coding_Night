@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Buy grocery for sehri and iftari",
+        "done": true
+    },
+    {
+        "task": "Go for shopping",
+        "done": true
+    },
+    {
+        "task": "Go for class'",
+        "done": false
+    }
+]
